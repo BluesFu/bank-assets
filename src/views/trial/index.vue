@@ -59,7 +59,7 @@
       </el-table-column>
       <el-table-column
         prop="invest"
-        label="单期总额（元">
+        label="单期总额（元)">
       </el-table-column>
     </el-table>
   </div>
