@@ -8,10 +8,10 @@ based on vue-admin-template
 
 ```bash
 # clone the project
-git clone https://github.com/BluesFu/bankassets.git
+git clone https://github.com/BluesFu/bank-assets.git
 
 # enter the project directory
-cd vue-admin-template
+cd bank-assets
 
 # install dependency
 npm install
